@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyCustomEditText</string>
+    <string name="last_name">Last_Name</string>
+</resources>
